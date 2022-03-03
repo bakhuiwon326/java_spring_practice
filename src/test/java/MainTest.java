@@ -1,4 +1,4 @@
-import com.java_oop.oop.Main;
+import com.java_spring_practice.oop.Main;
 import org.junit.jupiter.api.Test;
 
 class MainTest {
